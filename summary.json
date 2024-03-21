@@ -1,0 +1,34 @@
+{
+    "Math": {
+        "max_score": 1,
+        "count_max_score": 1,
+        "value_highest_appearance": 3,
+        "count_value_highest_appearances": 4,
+        "value_lowest_appearance": 1,
+        "count_value_lowest_appearances": 1
+    },
+    "Physic": {
+        "max_score": 1,
+        "count_max_score": 2,
+        "value_highest_appearance": 7,
+        "count_value_highest_appearances": 6,
+        "value_lowest_appearance": 1,
+        "count_value_lowest_appearances": 1
+    },
+    "Chemistry": {
+        "max_score": 1,
+        "count_max_score": 1,
+        "value_highest_appearance": 1,
+        "count_value_highest_appearances": 8,
+        "value_lowest_appearance": 1,
+        "count_value_lowest_appearances": 1
+    },
+    "Biography": {
+        "max_score": 1,
+        "count_max_score": 1,
+        "value_highest_appearance": 4,
+        "count_value_highest_appearances": 5,
+        "value_lowest_appearance": 1,
+        "count_value_lowest_appearances": 1
+    }
+}
