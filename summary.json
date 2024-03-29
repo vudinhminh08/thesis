@@ -1,1 +1,67 @@
-{"Math": {"total_score": 200, "total_scores_above_eight": 44, "total_scores_below_four": 78, "max_score": 10.0, "max_score_frequency": 9, "min_score": 1.0, "min_score_frequency": 8, "highest_appearances": 16, "score_highest_appearances": [2.0, 5.5]}, "Physic": {"total_score": 200, "total_scores_above_eight": 57, "total_scores_below_four": 76, "max_score": 10.0, "max_score_frequency": 11, "min_score": 1.0, "min_score_frequency": 11, "highest_appearances": 15, "score_highest_appearances": [1.5, 7.5, 8.5]}, "Chemistry": {"total_score": 200, "total_scores_above_eight": 43, "total_scores_below_four": 66, "max_score": 10.0, "max_score_frequency": 7, "min_score": 1.0, "min_score_frequency": 13, "highest_appearances": 21, "score_highest_appearances": [4.5]}, "Biography": {"total_score": 200, "total_scores_above_eight": 46, "total_scores_below_four": 74, "max_score": 10.0, "max_score_frequency": 1, "min_score": 1.0, "min_score_frequency": 10, "highest_appearances": 17, "score_highest_appearances": [8.5]}}
+{
+    "IT1110E-kip1-20222.csv": {
+        "total_score": 156,
+        "total_scores_above_eight": 8,
+        "total_scores_below_four": 67,
+        "max_score": 9.0,
+        "max_score_frequency": 3,
+        "min_score": 1.0,
+        "min_score_frequency": 2,
+        "highest_appearances": 22,
+        "score_highest_appearances": [
+            5.0
+        ]
+    },
+    "IT3020-kip3-20221.csv": {
+        "total_score": 220,
+        "total_scores_above_eight": 0,
+        "total_scores_below_four": 101,
+        "max_score": 7.5,
+        "max_score_frequency": 3,
+        "min_score": 0.0,
+        "min_score_frequency": 6,
+        "highest_appearances": 37,
+        "score_highest_appearances": [
+            4.0
+        ]
+    },
+    "IT3020-kip4-20222.csv": {
+        "total_score": 203,
+        "total_scores_above_eight": 0,
+        "total_scores_below_four": 91,
+        "max_score": 7.5,
+        "max_score_frequency": 2,
+        "min_score": 0.0,
+        "min_score_frequency": 2,
+        "highest_appearances": 34,
+        "score_highest_appearances": [
+            5.0
+        ]
+    },
+    "IT3020-kip1-20231.csv": {
+        "total_score": 214,
+        "total_scores_above_eight": 38,
+        "total_scores_below_four": 24,
+        "max_score": 9.5,
+        "max_score_frequency": 2,
+        "min_score": 0.5,
+        "min_score_frequency": 1,
+        "highest_appearances": 37,
+        "score_highest_appearances": [
+            7.5
+        ]
+    },
+    "IT3020-kip2-20231.csv": {
+        "total_score": 175,
+        "total_scores_above_eight": 29,
+        "total_scores_below_four": 27,
+        "max_score": 9.5,
+        "max_score_frequency": 1,
+        "min_score": 2.0,
+        "min_score_frequency": 1,
+        "highest_appearances": 23,
+        "score_highest_appearances": [
+            6.0
+        ]
+    }
+}
