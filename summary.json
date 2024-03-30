@@ -1,5 +1,5 @@
 {
-    "IT1110E-kip1-20222.csv": {
+    "IT1110E-kip1-20222": {
         "total_score": 156,
         "total_scores_above_eight": 8,
         "total_scores_below_four": 67,
@@ -10,35 +10,20 @@
         "highest_appearances": 22,
         "score_highest_appearances": [
             5.0
-        ]
+        ],
+        "score_abnormal_appearances": [
+            1.0,
+            1.5,
+            3.0,
+            5.0,
+            7.5,
+            8.5
+        ],
+        "mean_appearances": 9,
+        "mean_score": 4.6,
+        "median_score": 5.0
     },
-    "IT3020-kip3-20221.csv": {
-        "total_score": 220,
-        "total_scores_above_eight": 0,
-        "total_scores_below_four": 101,
-        "max_score": 7.5,
-        "max_score_frequency": 3,
-        "min_score": 0.0,
-        "min_score_frequency": 6,
-        "highest_appearances": 37,
-        "score_highest_appearances": [
-            4.0
-        ]
-    },
-    "IT3020-kip4-20222.csv": {
-        "total_score": 203,
-        "total_scores_above_eight": 0,
-        "total_scores_below_four": 91,
-        "max_score": 7.5,
-        "max_score_frequency": 2,
-        "min_score": 0.0,
-        "min_score_frequency": 2,
-        "highest_appearances": 34,
-        "score_highest_appearances": [
-            5.0
-        ]
-    },
-    "IT3020-kip1-20231.csv": {
+    "IT3020-kip1-20231": {
         "total_score": 214,
         "total_scores_above_eight": 38,
         "total_scores_below_four": 24,
@@ -49,9 +34,24 @@
         "highest_appearances": 37,
         "score_highest_appearances": [
             7.5
-        ]
+        ],
+        "score_abnormal_appearances": [
+            0.5,
+            1.0,
+            1.5,
+            2.0,
+            3.0,
+            6.0,
+            6.5,
+            7.0,
+            7.5,
+            9.5
+        ],
+        "mean_appearances": 11,
+        "mean_score": 6.5,
+        "median_score": 5.2
     },
-    "IT3020-kip2-20231.csv": {
+    "IT3020-kip2-20231": {
         "total_score": 175,
         "total_scores_above_eight": 29,
         "total_scores_below_four": 27,
@@ -62,6 +62,63 @@
         "highest_appearances": 23,
         "score_highest_appearances": [
             6.0
-        ]
+        ],
+        "score_abnormal_appearances": [
+            2.0,
+            5.5,
+            6.0,
+            7.5,
+            9.5
+        ],
+        "mean_appearances": 10,
+        "mean_score": 6.1,
+        "median_score": 5.8
+    },
+    "IT3020-kip3-20221": {
+        "total_score": 220,
+        "total_scores_above_eight": 0,
+        "total_scores_below_four": 101,
+        "max_score": 7.5,
+        "max_score_frequency": 3,
+        "min_score": 0.0,
+        "min_score_frequency": 6,
+        "highest_appearances": 37,
+        "score_highest_appearances": [
+            4.0
+        ],
+        "score_abnormal_appearances": [
+            0.5,
+            1.5,
+            4.0,
+            5.0,
+            7.5
+        ],
+        "mean_appearances": 14,
+        "mean_score": 4.4,
+        "median_score": 4.0
+    },
+    "IT3020-kip4-20222": {
+        "total_score": 203,
+        "total_scores_above_eight": 0,
+        "total_scores_below_four": 91,
+        "max_score": 7.5,
+        "max_score_frequency": 2,
+        "min_score": 0.0,
+        "min_score_frequency": 2,
+        "highest_appearances": 34,
+        "score_highest_appearances": [
+            5.0
+        ],
+        "score_abnormal_appearances": [
+            0.0,
+            1.5,
+            2.0,
+            3.5,
+            5.0,
+            7.5
+        ],
+        "mean_appearances": 14,
+        "mean_score": 4.4,
+        "median_score": 4.2
     }
 }
