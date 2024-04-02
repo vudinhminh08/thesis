@@ -21,7 +21,30 @@
         ],
         "mean_appearances": 9,
         "mean_score": 4.6,
-        "median_score": 5.0
+        "median_score": 5.0,
+        "phan_hoa": false,
+        "list_score": [
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0,
+            6.5,
+            7.0,
+            7.5,
+            8.0,
+            8.5,
+            9.0
+        ],
+        "count_appearances_right": 73,
+        "count_appearances_left": 105,
+        "shift_direction": "left"
     },
     "IT3020-kip1-20231": {
         "total_score": 214,
@@ -49,7 +72,31 @@
         ],
         "mean_appearances": 11,
         "mean_score": 6.5,
-        "median_score": 5.2
+        "median_score": 5.25,
+        "phan_hoa": false,
+        "list_score": [
+            0.5,
+            1.0,
+            1.5,
+            2.0,
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0,
+            6.5,
+            7.0,
+            7.5,
+            8.0,
+            8.5,
+            9.0,
+            9.5
+        ],
+        "count_appearances_right": 174,
+        "count_appearances_left": 40,
+        "shift_direction": "right"
     },
     "IT3020-kip2-20231": {
         "total_score": 175,
@@ -72,7 +119,29 @@
         ],
         "mean_appearances": 10,
         "mean_score": 6.1,
-        "median_score": 5.8
+        "median_score": 5.75,
+        "phan_hoa": false,
+        "list_score": [
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0,
+            6.5,
+            7.0,
+            7.5,
+            8.0,
+            8.5,
+            9.0,
+            9.5
+        ],
+        "count_appearances_right": 104,
+        "count_appearances_left": 71,
+        "shift_direction": "right"
     },
     "IT3020-kip3-20221": {
         "total_score": 220,
@@ -95,7 +164,28 @@
         ],
         "mean_appearances": 14,
         "mean_score": 4.4,
-        "median_score": 4.0
+        "median_score": 4.0,
+        "phan_hoa": false,
+        "list_score": [
+            0.0,
+            0.5,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0,
+            6.5,
+            7.0,
+            7.5
+        ],
+        "count_appearances_right": 156,
+        "count_appearances_left": 101,
+        "shift_direction": "right"
     },
     "IT3020-kip4-20222": {
         "total_score": 203,
@@ -119,6 +209,26 @@
         ],
         "mean_appearances": 14,
         "mean_score": 4.4,
-        "median_score": 4.2
+        "median_score": 4.25,
+        "phan_hoa": false,
+        "list_score": [
+            0.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0,
+            6.5,
+            7.0,
+            7.5
+        ],
+        "count_appearances_right": 112,
+        "count_appearances_left": 91,
+        "shift_direction": "right"
     }
 }
